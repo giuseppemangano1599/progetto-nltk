@@ -1,7 +1,7 @@
 🇮🇹
 Questo è il progetto richiesto per l'esame del corso di Linguistica Computazionale.
 
-N.B. : La traccia dell'esame non è inclusa nel repository per privacy poiché documento ufficiale
+N.B. : La traccia dell'esame non è inclusa nel repository per privacy poiché documento ufficiale.
 
 
 🇬🇧
